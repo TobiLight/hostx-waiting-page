@@ -1,0 +1,1 @@
+# hostx-waiting-page
